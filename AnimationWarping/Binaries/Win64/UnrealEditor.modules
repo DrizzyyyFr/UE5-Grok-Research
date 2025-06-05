@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"AnimationWarpingEditor": "UnrealEditor-AnimationWarpingEditor.dll",
+		"AnimationWarpingRuntime": "UnrealEditor-AnimationWarpingRuntime.dll"
+	}
+}

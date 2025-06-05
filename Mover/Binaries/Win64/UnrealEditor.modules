@@ -1,0 +1,10 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"Mover": "UnrealEditor-Mover.dll",
+		"MoverCVDData": "UnrealEditor-MoverCVDData.dll",
+		"MoverCVDEditor": "UnrealEditor-MoverCVDEditor.dll",
+		"MoverEditor": "UnrealEditor-MoverEditor.dll"
+	}
+}

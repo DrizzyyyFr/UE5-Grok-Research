@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.1.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.2.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.3.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.4.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.5.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Mover\\Module.Mover.6.cpp.obj"
+	]
+}
